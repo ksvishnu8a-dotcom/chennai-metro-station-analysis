@@ -1,0 +1,41 @@
+station_id,station_name,zone,station_type,daily_entries,daily_exits,peak_hour_load_pct,off_peak_load_pct,avg_wait_minutes,weekday_delays,weekend_delays,monthly_complaints,has_parking
+1,Central,North,Interchange,201,18450,72,58,4.2,9,14,32.0,False
+2,Egmore,North,Interchange,156,13200,68,51,3.7,7,11,28.0,False
+3,Shenoy Nagar,Central,Residential,84,7100,41,37,2.1,4,8,16.0,False
+4,Anna Nagar East,Central,Residential,97,8250,46,42,2.4,5,9,18.0,False
+5,Koyambedu,West,Commercial,143,12100,63,55,3.5,8,13,26.0,False
+6,Vadapalani,West,Commercial,128,10900,59,49,,7,12,23.0,False
+7,Guindy,South,Business,176,15800,71,61,4.6,10,16,31.0,False
+8,Alandur,South,Interchange,219,20100,78,66,5.3,12,18,39.0,False
+9,Airport,South,Transport,188,17200,74,63,4.9,11,17,35.0,False
+10,Little Mount,South,Residential,91,7600,44,39,2.3,5,9,17.0,False
+11,Saidapet,South,Residential,109,9300,52,44,2.8,6,10,21.0,False
+12,Nanganallur Road,South,Residential,88,6900,39,35,1.9,4,7,,False
+13,St. Thomas Mount,South,Interchange,151,12600,61,54,3.8,8,13,27.0,False
+14,Teynampet,Central,Business,134,11500,64,57,3.9,8,12,25.0,False
+15,Thousand Lights,Central,Business,119,10100,57,48,3.2,7,11,22.0,False
+16,Nandanam,Central,Business,111,9400,54,46,2.9,6,10,20.0,False
+17,Washermenpet,North,Residential,102,8600,49,41,2.5,5,9,19.0,False
+18,Mannadi,North,Commercial,73,6200,36,33,,3,6,14.0,False
+19,High Court,North,Business,129,10700,62,53,3.6,7,12,24.0,False
+20,Wimco Nagar,North,Residential,67,5400,31,29,1.4,3,5,12.0,False
+21,Wimco Nagar Depot,North,Industrial,59,4700,28,26,1.2,2,5,10.0,False
+22,New Washermenpet,North,Residential,81,6500,38,34,1.8,4,7,15.0,False
+23,Neelankarai,East,Residential,74,5800,35,31,1.6,3,6,13.0,False
+24,Adyar,East,Commercial,116,9700,55,47,3.0,6,10,21.0,False
+25,Besant Nagar,East,Residential,98,7900,48,43,2.6,5,9,18.0,False
+26,Marina,East,Tourism,163,14100,69,59,4.1,9,15,,False
+27,Mylapore,East,Heritage,137,11800,66,56,3.8,8,13,26.0,False
+28,Triplicane,East,Heritage,121,10300,58,49,3.0,7,11,23.0,False
+29,Royapettah,East,Commercial,108,8900,53,45,2.7,6,10,20.0,False
+30,Perambur,North,Residential,95,7800,45,40,,5,8,17.0,False
+31,Purasaiwakkam,Central,Commercial,113,9200,56,47,2.9,6,10,21.0,False
+32,Kilpauk,Central,Residential,86,7200,42,38,2.0,4,8,16.0,False
+33,Chetpet,Central,Education,104,8800,51,44,2.6,5,9,19.0,False
+34,Nungambakkam,Central,Business,127,10600,63,52,3.5,7,12,24.0,False
+35,Kodambakkam,West,Residential,92,7500,43,39,2.1,4,8,17.0,False
+36,Ashok Nagar,West,Residential,101,8300,47,42,2.5,5,9,19.0,False
+37,Ekkatuthangal,West,Industrial,78,6100,35,32,1.7,3,6,14.0,False
+38,St. Thomas Mount,South,Interchange,151,12600,61,54,3.8,8,13,27.0,False
+39,Pallavaram,South,Residential,112,9100,50,45,2.7,6,10,21.0,False
+40,Chromepet,South,Education,99,8100,46,41,2.4,5,9,18.0,False
