@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chennai Metro Station Activity Analysis
 
 ## Project Overview
@@ -142,3 +143,7 @@ chennai-metro-station-analysis/
 │
 ├── requirements.txt
 └── .gitignore
+=======
+# chennai-metro-station-analysis
+Exploratory data analysis of Chennai Metro station activity using Python, Pandas and NumPy
+>>>>>>> fa61e8dd082ec0f177332b29dfb418db06f4d0e0
