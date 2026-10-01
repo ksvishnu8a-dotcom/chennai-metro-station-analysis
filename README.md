@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chennai Metro Station Activity Analysis
 
 ## Project Overview
